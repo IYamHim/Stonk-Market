@@ -151,6 +151,7 @@ The script includes a test function that:
 1. Loads the trained model
 2. Runs inference on a sample prompt
 3. Prints the model's analysis and prediction
+Note: If you're not using a GPU, you may need to modify the environment.yml file to remove CUDA dependencies.
 
 ## Error Handling
 
@@ -172,6 +173,15 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Your License Here]
+Noncommercial MIT License
 
-Note: If you're not using a GPU, you may need to modify the environment.yml file to remove CUDA dependencies.
+Copyright (c) [2025] [./install_AL]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software subject to the following condition:
+
+  NONCOMMERCIAL RESTRICTION:
+  You are granted permission to use, copy, modify, merge, publish, distribute, sublicense, and/or display the Software and its source code solely for noncommercial purposes. “Noncommercial” means use that is not primarily intended for or directed toward commercial advantage or monetary compensation. Any use of the Software for commercial purposes—including, without limitation, incorporation of the Software into products or services that are sold or used in a commercial setting—is strictly prohibited without prior written consent from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
