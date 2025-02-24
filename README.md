@@ -113,7 +113,7 @@ The model uses the "2084collective/deepstock-sp500-companies-with-info-and-user-
 1. Train the model:
 
 ```bash
-python train_qwen_grpo.py
+python Stonk_Trader.py
 ```
 
 2. The script will:
