@@ -1,0 +1,19 @@
+name: Stonk_Trading
+channels:
+  - pytorch
+  - huggingface
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch>=2.0.0
+  - cudatoolkit
+  - pip
+  - pip:
+    - transformers>=4.30.0
+    - datasets
+    - peft
+    - wandb
+    - bitsandbytes>=0.39.0
+    - accelerate>=0.20.0
+    - numpy 
