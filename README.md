@@ -61,7 +61,7 @@ This repository contains code for training a Qwen2.5-1.5B model to predict stonk
 
 ## Overview
 
-The script `train_qwen_grpo.py` fine-tunes the Qwen2.5-1.5B language model to analyze stonk market data and make next-day price movement predictions. The model is trained to:
+The script `Stonk_Trader.py` fine-tunes the Qwen2.5-1.5B language model to analyze stonk market data and make next-day price movement predictions. The model is trained to:
 
 1. Analyze company information, price data, news, and financials
 2. Provide reasoned analysis in a structured format
